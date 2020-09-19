@@ -1,0 +1,98 @@
+﻿[
+  {
+    "id": 1,
+    "itemId": 1000,
+    "name": "原始人",
+    "sort": 1,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "itemId": 1001,
+    "name": "总裁大佬",
+    "sort": 4,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "itemId": 1002,
+    "name": "智者",
+    "sort": 5,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 4,
+    "itemId": 1003,
+    "name": "皮肤4",
+    "sort": 6,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 5,
+    "itemId": 1004,
+    "name": "皮肤5",
+    "sort": 7,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 6,
+    "itemId": 1005,
+    "name": "皮肤6",
+    "sort": 8,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 7,
+    "itemId": 1006,
+    "name": "皮肤7",
+    "sort": 2,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 8,
+    "itemId": 1007,
+    "name": "皮肤8",
+    "sort": 3,
+    "type": 1,
+    "price": 1000
+  },
+  {
+    "id": 9,
+    "itemId": 2000,
+    "name": "小石头",
+    "sort": 1,
+    "type": 2,
+    "price": 1000
+  },
+  {
+    "id": 10,
+    "itemId": 2001,
+    "name": "飞镖1",
+    "sort": 2,
+    "type": 2,
+    "price": 1000
+  },
+  {
+    "id": 11,
+    "itemId": 2002,
+    "name": "飞镖2",
+    "sort": 3,
+    "type": 2,
+    "price": 1000
+  },
+  {
+    "id": 12,
+    "itemId": 2003,
+    "name": "飞镖3",
+    "sort": 4,
+    "type": 2,
+    "price": 1000
+  }
+]

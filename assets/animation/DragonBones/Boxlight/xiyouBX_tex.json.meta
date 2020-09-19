@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8ec32b32-6625-4ea3-af28-a73ba5650c65",
+  "atlasJson": "{\"width\":128,\"SubTexture\":[{\"width\":45,\"y\":1,\"height\":43,\"name\":\"x1\",\"x\":1},{\"width\":41,\"y\":1,\"height\":41,\"name\":\"x2\",\"x\":48},{\"width\":24,\"y\":103,\"height\":24,\"name\":\"x3\",\"x\":33},{\"width\":35,\"y\":1,\"height\":35,\"name\":\"x4\",\"x\":91},{\"width\":35,\"y\":38,\"height\":35,\"name\":\"x5\",\"x\":91},{\"width\":30,\"y\":44,\"height\":30,\"name\":\"x6\",\"x\":48},{\"width\":30,\"y\":46,\"height\":30,\"name\":\"x7\",\"x\":1},{\"width\":25,\"y\":76,\"height\":25,\"name\":\"x8\",\"x\":33},{\"width\":30,\"y\":75,\"height\":30,\"name\":\"x9\",\"x\":80}],\"height\":128,\"name\":\"xiyouBX\",\"imagePath\":\"xiyouBX_tex.png\"}",
+  "texture": "b01ff013-04ea-4f8c-b1ac-dbe41ef12467",
+  "subMetas": {}
+}

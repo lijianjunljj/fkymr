@@ -1,0 +1,50 @@
+[
+  {
+    "id": "",
+    "questID": 1000,
+    "questType": 1,
+    "questGoal": 1,
+    "questDesc": "进行{0}场游戏",
+    "questReward": 10
+  },
+  {
+    "id": "",
+    "questID": 1001,
+    "questType": 1,
+    "questGoal": 3,
+    "questDesc": "进行{0}场游戏",
+    "questReward": 20
+  },
+  {
+    "id": "",
+    "questID": 1002,
+    "questType": 1,
+    "questGoal": 5,
+    "questDesc": "进行{0}场游戏",
+    "questReward": 30
+  },
+  {
+    "id": "",
+    "questID": 1003,
+    "questType": 2,
+    "questGoal": 3,
+    "questDesc": "完成{0}次高抛进球",
+    "questReward": 10
+  },
+  {
+    "id": "",
+    "questID": 1004,
+    "questType": 3,
+    "questGoal": 1,
+    "questDesc": "使用钻石解锁{0}次宝箱",
+    "questReward": 20
+  },
+  {
+    "id": "",
+    "questID": 1005,
+    "questType": 4,
+    "questGoal": 1,
+    "questDesc": "分享{0}次游戏",
+    "questReward": 10
+  }
+]

@@ -1,0 +1,119 @@
+{
+  "assets-sort-type": "name",
+  "collision-matrix": [
+    [
+      true,
+      null,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    [
+      false,
+      false
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      null,
+      true,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      true,
+      false,
+      true,
+      null,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      true,
+      true,
+      true,
+      null,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      true,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  ],
+  "design-resolution-height": 1334,
+  "design-resolution-width": 750,
+  "excluded-modules": [
+    "TiledMap",
+    "Spine Skeleton",
+    "PageView",
+    "PageViewIndicator",
+    "NodePool",
+    "StudioComponent",
+    "Geom Utils",
+    "3D",
+    "3D Primitive"
+  ],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "ui",
+    "weapon",
+    "enemy",
+    "hurt",
+    "barrier",
+    "glass",
+    "captive"
+  ],
+  "last-module-event-record-time": 1585236371170,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "use-customize-simulator": true,
+  "use-project-simulator-setting": false,
+  "start-scene": "current"
+}

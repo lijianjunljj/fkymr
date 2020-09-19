@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "779222d4-935b-44d3-a5ef-80c121ce69b5",
+  "atlasJson": "{\"width\":1024,\"SubTexture\":[{\"width\":212,\"y\":1,\"height\":210,\"name\":\"guanqia_X11\",\"x\":474},{\"width\":226,\"y\":277,\"height\":225,\"name\":\"guanqia_X22\",\"x\":229},{\"width\":212,\"y\":213,\"height\":210,\"name\":\"guanqia_X33\",\"x\":671},{\"width\":212,\"y\":1,\"height\":210,\"name\":\"3\",\"x\":260},{\"width\":212,\"y\":213,\"height\":210,\"name\":\"2\",\"x\":457},{\"width\":226,\"y\":277,\"height\":225,\"name\":\"1\",\"x\":1},{\"width\":257,\"y\":1,\"height\":274,\"name\":\"66\",\"x\":1}],\"height\":512,\"name\":\"xxjiesuan\",\"imagePath\":\"xxjiesuan_tex.png\"}",
+  "texture": "3fc636a8-07e8-4cce-b31e-a5e334b4819c",
+  "subMetas": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c3f438a5-cced-4007-83a3-5b990d7cf7b1",
+  "atlasJson": "{\"imagePath\":\"zhayaoT_tex.png\",\"width\":512,\"height\":512,\"name\":\"zhayaoT\",\"SubTexture\":[{\"width\":164,\"y\":1,\"height\":164,\"name\":\"guang6\",\"x\":1},{\"width\":164,\"y\":1,\"height\":164,\"name\":\"guang4\",\"x\":167},{\"width\":164,\"y\":333,\"height\":164,\"name\":\"guang3\",\"x\":1},{\"width\":164,\"y\":167,\"height\":164,\"name\":\"guang5\",\"x\":1},{\"frameY\":-6,\"y\":1,\"frameWidth\":164,\"frameHeight\":164,\"width\":153,\"height\":153,\"name\":\"guang2\",\"frameX\":-6,\"x\":333},{\"frameY\":-32,\"y\":156,\"frameWidth\":164,\"frameHeight\":164,\"width\":97,\"height\":112,\"name\":\"guang1\",\"frameX\":-31,\"x\":333}]}",
+  "texture": "02ef4893-9c79-4313-a23f-b7155194dbf1",
+  "subMetas": {}
+}

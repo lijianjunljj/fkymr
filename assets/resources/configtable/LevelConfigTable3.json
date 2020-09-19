@@ -1,0 +1,302 @@
+﻿[
+  {
+    "id": 1,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 1,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 2,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 2,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 3,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 3,
+    "ammoCount": 6,
+    "tripleStar": 2,
+    "doubleStar": 3,
+    "singleStar": 4
+  },
+  {
+    "id": 4,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 4,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 5,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 5,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 6,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 6,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 7,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 7,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 8,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 8,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 9,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 9,
+    "ammoCount": 7,
+    "tripleStar": 4,
+    "doubleStar": 5,
+    "singleStar": 6
+  },
+  {
+    "id": 10,
+    "level_max": 1,
+    "chapter": 1,
+    "level_min": 10,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 11,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 1,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 12,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 2,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 13,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 3,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 14,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 4,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 15,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 5,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 16,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 6,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 17,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 7,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 18,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 8,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 19,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 9,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 20,
+    "level_max": 2,
+    "chapter": 1,
+    "level_min": 10,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 21,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 1,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 22,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 2,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 23,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 3,
+    "ammoCount": 6,
+    "tripleStar": 2,
+    "doubleStar": 3,
+    "singleStar": 4
+  },
+  {
+    "id": 24,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 4,
+    "ammoCount": 6,
+    "tripleStar": 2,
+    "doubleStar": 3,
+    "singleStar": 4
+  },
+  {
+    "id": 25,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 5,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 26,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 6,
+    "ammoCount": 6,
+    "tripleStar": 2,
+    "doubleStar": 3,
+    "singleStar": 4
+  },
+  {
+    "id": 27,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 7,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 28,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 8,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 29,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 9,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  },
+  {
+    "id": 30,
+    "level_max": 3,
+    "chapter": 2,
+    "level_min": 10,
+    "ammoCount": 5,
+    "tripleStar": 1,
+    "doubleStar": 2,
+    "singleStar": 3
+  }
+]

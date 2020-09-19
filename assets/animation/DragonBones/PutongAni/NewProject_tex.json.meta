@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d030ae44-3f01-43bd-a631-b613e12ac6cf",
+  "atlasJson": "{\"width\":256,\"SubTexture\":[{\"width\":199,\"y\":185,\"height\":184,\"name\":\"putong_guan\",\"x\":1},{\"width\":213,\"y\":1,\"height\":182,\"name\":\"putong_kai\",\"x\":1},{\"width\":210,\"y\":371,\"height\":101,\"name\":\"putong\",\"x\":1},{\"width\":1,\"y\":474,\"height\":1,\"name\":\"1\",\"x\":1},{\"width\":1,\"y\":480,\"height\":1,\"name\":\"guangxiao_3\",\"x\":1},{\"width\":1,\"y\":477,\"height\":1,\"name\":\"guangxiao\",\"x\":1}],\"height\":512,\"name\":\"NewProject\",\"imagePath\":\"NewProject_tex.png\"}",
+  "texture": "017a9787-afc2-489c-992e-e54bfe956eb3",
+  "subMetas": {}
+}
